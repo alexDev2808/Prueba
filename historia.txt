@@ -1,0 +1,3 @@
+Este es un archivo de prueba para el curso de Git y GitHub
+
+Intentando agregar cambios como colaborador...
