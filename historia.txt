@@ -1,3 +1,6 @@
 Este es un archivo de prueba para el curso de Git y GitHub
 
-Intentando agregar cambios como colaborador...
+Intentando agregar cambios como colaborador..
+
+Ahora este es otro parrafo de prueba...
+.
